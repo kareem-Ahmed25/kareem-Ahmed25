@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Full-Stack .NET & Angular Developer.<br>👯 I’m looking to collaborate on full-stack .NET & Angular open-source projects. <br>💬 Ask me about C#, .NET, Angular, Entity Framework Core, or RESTful API design. 
+🔭 Full-Stack .NET & Angular Developer . <br>👯 I’m looking to collaborate on full-stack .NET & Angular open-source projects. <br>💬 Ask me about C#, .NET, Angular, Entity Framework Core, or RESTful API design. 
 
 
 
