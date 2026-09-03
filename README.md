@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Full-Stack .NET & Angular Developer . <br>👯 I’m looking to collaborate on full-stack .NET & Angular open-source projects . <br>💬 ASK me about C#, .NET, Angular, Entity Framework Core, or RESTful API design .  
+🔭 Full-Stack .NET & Angular Developer . <br>👯 I’m looking to collaborate on full-stack .NET & Angular open-source projects .<br>💬 ASK me about C#, .NET, Angular, Entity Framework Core, or RESTful API design ..  
 
 
 
@@ -26,7 +26,7 @@
 
 
 
----
+----
 
 [![](https://komarev.com/ghpvc/?username=kareem-Ahmed25&icon=0&color=0)](https://visitcount.itsvg.in)
 
